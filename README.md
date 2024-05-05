@@ -4,9 +4,8 @@ Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramen
 # 💻 Tecnologias utilizadas no projeto
 - Chat GPT
 - ImagineArt
-- Figma
-- Canva
-
+- Power Point
+  
 ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
